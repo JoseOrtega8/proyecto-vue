@@ -1,3 +1,11 @@
+## Autor
+- Nombre: Jose Carlos Calles Ortega  
+- Email: jose.carlos.ovtubre2004@gmail.com 
+- GitHub: [@JoseOrtega8](https://github.com/JoseOrtega8)
+
+
+
+
 # .
 
 This template should help get you started developing with Vue 3 in Vite.
